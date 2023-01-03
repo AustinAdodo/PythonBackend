@@ -112,7 +112,6 @@ def is_prime2(n):
     # We know 1 is not a prime number
     if n == 1:
         return False
-
     i = 2
     # This will loop from 2 to int(sqrt(x))
     while i * i <= n:
