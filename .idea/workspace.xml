@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b93e2281-d59b-43dc-b357-29b960f71830" name="Changes" comment="Initial Commits Py">
-      <change afterPath="$PROJECT_DIR$/Binary Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Render.py" beforeDir="false" afterPath="$PROJECT_DIR$/Render.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +69,9 @@
       <workItem from="1671637641573" duration="11151000" />
       <workItem from="1672253557942" duration="2187000" />
       <workItem from="1672313139436" duration="14901000" />
-      <workItem from="1672555560736" duration="612000" />
+      <workItem from="1672555560736" duration="2038000" />
+      <workItem from="1672814318632" duration="1782000" />
+      <workItem from="1672858073809" duration="754000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commits Py">
       <created>1671634422623</created>
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671634422623</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commits Py">
+      <created>1672785640896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672785640896</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +107,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commits Py" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commits Py" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonBackend$Render.coverage" NAME="Render Coverage Results" MODIFIED="1672861034882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
